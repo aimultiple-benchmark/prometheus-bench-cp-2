@@ -87,7 +87,7 @@ require (
 	go.yaml.in/yaml/v2 v2.4.3
 	golang.org/x/oauth2 v0.31.0
 	golang.org/x/sync v0.17.0
-	golang.org/x/sys v0.36.0
+	golang.org/x/sys v0.38.0
 	golang.org/x/text v0.29.0
 	google.golang.org/api v0.252.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20250929231259-57b25ae835d4
