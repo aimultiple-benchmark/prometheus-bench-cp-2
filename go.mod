@@ -86,7 +86,7 @@ require (
 	go.uber.org/multierr v1.11.0
 	go.yaml.in/yaml/v2 v2.4.3
 	golang.org/x/oauth2 v0.31.0
-	golang.org/x/sync v0.17.0
+	golang.org/x/sync v0.18.0
 	golang.org/x/sys v0.36.0
 	golang.org/x/text v0.29.0
 	google.golang.org/api v0.252.0
