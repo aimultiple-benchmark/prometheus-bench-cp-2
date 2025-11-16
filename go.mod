@@ -39,7 +39,7 @@ require (
 	github.com/grafana/regexp v0.0.0-20250905093917-f7b3be9d1853
 	github.com/hashicorp/consul/api v1.32.0
 	github.com/hashicorp/nomad/api v0.0.0-20250930071859-eaa0fe0e27af
-	github.com/hetznercloud/hcloud-go/v2 v2.25.1
+	github.com/hetznercloud/hcloud-go/v2 v2.30.0
 	github.com/ionos-cloud/sdk-go/v6 v6.3.4
 	github.com/json-iterator/go v1.1.12
 	github.com/klauspost/compress v1.18.0
@@ -87,8 +87,8 @@ require (
 	go.yaml.in/yaml/v2 v2.4.3
 	golang.org/x/oauth2 v0.31.0
 	golang.org/x/sync v0.17.0
-	golang.org/x/sys v0.36.0
-	golang.org/x/text v0.29.0
+	golang.org/x/sys v0.37.0
+	golang.org/x/text v0.30.0
 	google.golang.org/api v0.252.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20250929231259-57b25ae835d4
 	google.golang.org/grpc v1.76.0
@@ -103,6 +103,7 @@ require (
 
 require (
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
+	golang.org/x/tools/godoc v0.1.0-deprecated // indirect
 	sigs.k8s.io/structured-merge-diff/v6 v6.3.0 // indirect
 )
 
@@ -217,13 +218,13 @@ require (
 	go.opentelemetry.io/collector/pipeline v1.45.0 // indirect
 	go.opentelemetry.io/proto/otlp v1.7.1 // indirect
 	go.uber.org/zap v1.27.0 // indirect
-	golang.org/x/crypto v0.42.0 // indirect
+	golang.org/x/crypto v0.43.0 // indirect
 	golang.org/x/exp v0.0.0-20250808145144-a408d31f581a // indirect
-	golang.org/x/mod v0.27.0 // indirect
-	golang.org/x/net v0.44.0 // indirect
-	golang.org/x/term v0.35.0 // indirect
+	golang.org/x/mod v0.28.0 // indirect
+	golang.org/x/net v0.46.0 // indirect
+	golang.org/x/term v0.36.0 // indirect
 	golang.org/x/time v0.13.0 // indirect
-	golang.org/x/tools v0.36.0 // indirect
+	golang.org/x/tools v0.37.0 // indirect
 	google.golang.org/genproto/googleapis/rpc v0.0.0-20251002232023-7c0ddcbb5797 // indirect
 	gopkg.in/evanphx/json-patch.v4 v4.12.0 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
